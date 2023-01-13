@@ -110,7 +110,7 @@ border:1px solid red;
 border-radius: 20px;
 }
 
-/* mediaqury */
+/* medea query */
 
 @media screen and (max-width:676px) {
   
@@ -177,7 +177,6 @@ grid-template-columns: repeat(2, 1fr);
 }
 .course{
 }
-
 }
 
 
